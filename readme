@@ -1,0 +1,7 @@
+Class GetWeatherDataFromWeb contains a method getWeatherDataFromWeb(String cityName) which will retrun a map with required data from web weather.
+Class WhetherAPIUtils contains a method getWeatherDataInMetric(String cityName) which will retrun a map with required data from API weather.
+Class Comporator contains methods with allowed variance and test. 
+
+Execute @Test annotated method compareWebAndApiData in Class Comporator. 
+
+Outout - True if data is within variance else false. 
