@@ -1,3 +1,4 @@
+package com.testvagrant;
 import java.util.HashMap;
 import java.util.Map;
 
